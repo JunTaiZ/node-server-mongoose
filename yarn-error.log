@@ -1,0 +1,31 @@
+Arguments: 
+  D:\sofeware\node\node.exe C:\Users\94080\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js
+
+PATH: 
+  C:\Users\94080\bin;D:\software0\Git\mingw64\bin;D:\software0\Git\usr\local\bin;D:\software0\Git\usr\bin;D:\software0\Git\usr\bin;D:\software0\Git\mingw64\bin;D:\software0\Git\usr\bin;C:\Users\94080\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Program Files (x86)\Intel\iCLS Client;D:\software0\wamp\bin\mysql\mysql5.6.17\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn;D:\sofeware\node\nvmw-master;%PATH%;D:\android\android-sdk-windows\tools;D:\android\android-sdk-windows\platform-tools;D:\android\gradle-4.6-bin\gradle-4.6\bin;D:\software0\tomcat_9.0.5\bin;D:\sofeware\gradle-4.6\bin;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\Tools\Binn;C:\Program Files\Microsoft SQL Server\140\DTS\Binn;D:\software1\TASM5;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;D:\software1\python3;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;D:\software1\anaconda3;C:\Users\94080\AppData\Roaming\Python\Python37\Scripts;K:\apache-maven-3.6.1\bin;S:\MongoDB\Server\4.0\bin;D:\code\CodeBlocks\MinGW\bin;D:\software0\Git\cmd;D:\software0\wamp64\bin\mysql\mysql5.7.19\bin;D:\sofeware\node;C:\ProgramData\chocolatey\bin;K:\pandoc;D:\software1\Go\bin;D:\software1\python3\Scripts;D:\software1\python3;D:\software0\VSCode\Microsoft VS Code\bin;C:\Users\94080\AppData\Roaming\npm;C:\Users\94080\go\bin;D:\software0\Git\usr\bin\vendor_perl;D:\software0\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  12.12.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: D:\Workspace\webstorm\node-server-mongose\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\94080\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1631:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\94080\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:304:30)
+      at C:\Users\94080\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:315:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

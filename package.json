@@ -1,0 +1,39 @@
+{
+  "name": "server-mongose",
+  "version": "1.0.0",
+  "description": "node server\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D backend server with mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js",
+    "nodemon": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JunTaiZ/node-server-mongoose.git"
+  },
+  "keywords": [
+    "node",
+    "koa",
+    "mongoDB",
+    "login",
+    "register"
+  ],
+  "author": "JunTai Zheng",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "js-base64": "^2.5.2",
+    "js-md5": "^0.7.3",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "^0.0.16",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.6.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.9.6",
+    "nodemailer": "^6.4.6"
+  }
+}
